@@ -1,2 +1,2 @@
-master curriculum of Practice-of-Social-Media-Analytics  
+My master curriculum : Practice of SocialMedia Analytics  
 The final project : Link Prediction on different datasets
